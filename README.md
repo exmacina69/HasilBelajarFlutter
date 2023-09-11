@@ -1,6 +1,6 @@
-# spontracker
+# SPONTRACKER
 
-A new Flutter project.
+Aplikasi ini merupakan project akhir dari mata kuliah Pemograman Aplikasi Bergerak
 
 ## Getting Started
 
