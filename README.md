@@ -1,6 +1,7 @@
 # SPONTRACKER
 
-Aplikasi ini merupakan project akhir dari mata kuliah Pemograman Aplikasi Bergerak
+Aplikasi ini merupakan project akhir dari mata kuliah Pemograman Aplikasi Bergerak pada Program Studi Sistem dan Teknologi Informasi Universitas Negeri Jakarta
+https://ft.unj.ac.id/sti/
 
 ## Getting Started
 
